@@ -2,7 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - A program
+ * main - A program the print positive or negative
+ * or zero of a random nember
  * Return: Always 0 (Success)
  **/
 int main(void)
