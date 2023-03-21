@@ -1,5 +1,6 @@
 #include <stdio.h>
 /**
+ * fibo - function
  * main - check the code.
  * Return: Always 0.
  **/
