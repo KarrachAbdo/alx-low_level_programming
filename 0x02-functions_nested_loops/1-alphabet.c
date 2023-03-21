@@ -1,9 +1,9 @@
 #include <unistd.h>
 #include "main.h"
 /**
- * void print_alphabet(void) - function that prints the alphabet,
+ * print_alphabet - function that prints the alphabet,
  * in lowercase
- * Return: On success void
+ * Return: void
  */
 void print_alphabet(void)
 {
