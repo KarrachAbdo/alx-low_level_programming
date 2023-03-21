@@ -1,12 +1,12 @@
 #include <stdio.h>
 /**
- * fibo - function
  * main - check the code.
  * Return: Always 0.
  **/
-void fibo(void)
+int main(void)
 {
-long a = 1, b = 2, c, i;
+unsigned long a = 1, b = 2, c;
+int i;
 printf("%ld, %ld, ", a, b);
 for (i = 2; i < 98; i++)
 {
@@ -16,9 +16,5 @@ a = b;
 b = c;
 }
 printf("\n");
-}
-int main(void)
-{
-fibo();
 return (0);
 }
