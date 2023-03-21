@@ -6,12 +6,13 @@
 int main(void)
 {
 int i;
-unsigned long long int n1 = 1, n2 = 2;
-printf("%llu, %llu", n1, n2);
+long next = 0;
+long  n1 = 1, n2 = 2;
+printf("%ld, %ld", n1, n2);
 for (i = 3; i <= 50; i++)
 {
-unsigned long long int next = n1 + n2;
-printf(", %llu", next);
+next = n1 + n2;
+printf(", %ld", next);
 n1 = n2;
 n2 = next;
 }
