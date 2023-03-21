@@ -16,7 +16,7 @@ for (j = 1; j <= n; j++)
 {
 _putchar(',');
 _putchar(' ');
-k = n * i;
+k = j * i;
 if (k <= 99)
 _putchar(' ');
 if (k <= 9)
