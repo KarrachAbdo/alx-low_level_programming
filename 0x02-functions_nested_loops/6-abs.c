@@ -1,7 +1,7 @@
 #include <unistd.h>
 #include "main.h"
 /**
- *print_sign - function that print abs value.
+ *_abs - function that print abs value.
  * @c : the value to be compute
  *Return: int
  **/
