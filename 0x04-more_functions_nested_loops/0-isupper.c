@@ -1,7 +1,7 @@
 #include <unistd.h>
 #include "main.h"
 /**
- *_isupper - function that checks for lowercase.
+ *_isupper - function that checks for upercase.
  *@c : the caractere to be cheched
  * Return: On success 1.
  * On otherwise, 0.
