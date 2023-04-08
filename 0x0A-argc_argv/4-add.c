@@ -12,7 +12,7 @@ int check_num(char *str)
 unsigned int count;
 
 count = 0;
-while (count < strlen(str)) 
+while (count < strlen(str))
 {
 if (!isdigit(str[count]))
 {
