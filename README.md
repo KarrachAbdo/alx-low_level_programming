@@ -1,4 +1,4 @@
-# 0x00. C - Hello, World
+# `Programming language C` 
 ### General
 * Why C programming is awesome
 * Who invented C
@@ -44,3 +44,5 @@
 ### 0x06-pointers_arrays_strings
 ### 0x07. C - Even more pointers, arrays and strings
 ### 0x08. C - Recursion
+### 0x09. C - Static libraries
+###0x0A. C - argc, argv
