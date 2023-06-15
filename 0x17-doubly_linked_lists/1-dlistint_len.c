@@ -1,3 +1,4 @@
+#include "lists.h"
 /**
  * dlistint_len - Returns the number of elements in a doubly linked list.
  * @h: Pointer to the head of the linked list.
